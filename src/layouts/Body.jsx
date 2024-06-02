@@ -10,5 +10,5 @@ export default function Body() {
       <Outlet />
       <Footer />
     </div>
-  );
+  )
 }
